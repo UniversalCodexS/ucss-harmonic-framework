@@ -1,3 +1,25 @@
+"""
+UCSS Harmonic Framework v0.1 — Verification of Truth Through Spectral Compression and Regeneration
+-----------------------------------------------------------------------------------------------
+
+Author: Dean Hedges
+Organization: Universal Codex Systems and Solutions (UCSS)
+Version: 0.1
+Date: 2025-10-31
+License: MIT License
+DOI: https://doi.org/10.5281/zenodo.17494221
+Repository: https://github.com/UniversalCodexS/ucss-harmonic-framework
+
+Description:
+This Python demonstration validates the harmonic decomposition and reconstruction method
+used in the UCSS Harmonic Framework. It synthesizes a structured waveform, performs
+spectral compression (variable harmonic K truncation), reconstructs the waveform, and
+verifies SHA-256 checksum equivalence for identity preservation.
+
+Reproducibility:
+Run directly with Python 3.x and the following dependencies:
+  numpy, matplotlib, scipy
+"""
 
 import numpy as np
 import matplotlib.pyplot as plt
