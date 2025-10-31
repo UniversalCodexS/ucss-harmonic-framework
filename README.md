@@ -31,7 +31,7 @@ BibTeX:
   doi={10.5281/zenodo.17494221}
 }
 ---
-
+</code>
 ## Figures
 
 **Figure 1 — Harmonic Decomposition (K = 20)**  
