@@ -21,6 +21,7 @@ If you use or reference this work, please cite:
 > Universal Codex Systems and Solutions.  
 > [https://doi.org/10.5281/zenodo.17494221](https://doi.org/10.5281/zenodo.17494221)
 
+
 BibTeX:
 ```bibtex
 @article{hedges2025ucss,
@@ -30,8 +31,10 @@ BibTeX:
   publisher={Universal Codex Systems and Solutions},
   doi={10.5281/zenodo.17494221}
 }
+
+
 ---
-</code>
+
 ## Figures
 
 **Figure 1 — Harmonic Decomposition (K = 20)**  
