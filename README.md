@@ -44,5 +44,12 @@ Zenodo. [https://doi.org/10.5281/zenodo.17494221](https://doi.org/10.5281/zenodo
 
 ### 🧠 License
 
-Released under **MIT License** for educational and verification purposes only.  
-All conceptual rights to the Universal Codex Systems and Solutions (UCSS) remain reserved.
+MIT License
+
+Copyright (c) 2025 Universal Codex Systems and Solutions (UCSS)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use and copy the Software for academic, research, and verification purposes, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
