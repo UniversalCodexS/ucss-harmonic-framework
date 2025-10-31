@@ -6,8 +6,6 @@
 This repository hosts the demonstration code, figures, and research paper supporting  
 the publication *“UCSS Harmonic Framework v0.1 — Verification of Truth Through Spectral Compression and Regeneration”*.
 
----
-
 ## Repository Structure
 
 
