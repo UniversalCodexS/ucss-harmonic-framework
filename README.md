@@ -32,6 +32,16 @@ BibTeX:
   doi={10.5281/zenodo.17494221}
 }
 
+BibTeX:
+```bibtex
+@article{hedges2025ucss,
+  title={UCSS Harmonic Framework v0.1 — Verification of Truth Through Spectral Compression and Regeneration},
+  author={Hedges, Dean},
+  year={2025},
+  publisher={Universal Codex Systems and Solutions},
+  doi={10.5281/zenodo.17494221}
+}
+
 ## Figures
 
 **Figure 1 — Harmonic Decomposition (K = 20)**  
